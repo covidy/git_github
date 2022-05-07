@@ -1,3 +1,3 @@
-package main
+Package main
 
 fun main()
